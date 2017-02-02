@@ -1,4 +1,4 @@
-# ![alt tag](https://raw.githubusercontent.com/hajjiTarik/rulerJs/master/img/RULER.png)
+# ![alt tag](https://raw.githubusercontent.com/hajjiTarik/rulerJ-s/master/img/RULER.png)
 
 ## The smallest javascript framework with so many features.
 
