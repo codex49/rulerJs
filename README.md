@@ -1,9 +1,12 @@
 # ![alt tag](https://raw.githubusercontent.com/hajjiTarik/rulerJs/master/img/RULER.png)
 
-# The RulerJS library exported as [Node.js](https://nodejs.org/) modules.
+# The smallest javascript framework with so many features.
 
 ![build status](https://travis-ci.org/hajjiTarik/rulerJs.svg?branch=master)
 [![npm version](https://badge.fury.io/js/rulerjs.svg)](https://badge.fury.io/js/rulerjs)
+
+he RulerJS library exported as [Node.js](https://nodejs.org/) modules.
+
 ## Installation
 
 Using npm:
