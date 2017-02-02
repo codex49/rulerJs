@@ -1,6 +1,6 @@
 # ![alt tag](https://raw.githubusercontent.com/hajjiTarik/rulerJs/master/img/RULER.png)
 
-# The smallest javascript framework with so many features.
+## The smallest javascript framework with so many features.
 
 ![build status](https://travis-ci.org/hajjiTarik/rulerJs.svg?branch=master)
 [![npm version](https://badge.fury.io/js/rulerjs.svg)](https://badge.fury.io/js/rulerjs)
