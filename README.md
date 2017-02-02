@@ -2,7 +2,7 @@
 
 The RulerJS library exported as [Node.js](https://nodejs.org/) modules.
 
-(https://travis-ci.org/hajjiTarik/rulerJs.svg?branch=master)
+[![build status](https://travis-ci.org/hajjiTarik/rulerJs.svg?branch=master)
 [![npm version](https://badge.fury.io/js/rulerjs.svg)](https://badge.fury.io/js/rulerjs)
 ## Installation
 
