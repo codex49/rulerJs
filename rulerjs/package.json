@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "rulerjs",
+        "scope": null,
+        "escapedName": "rulerjs",
+        "name": "rulerjs",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/hajjiTarek/Desktop"
+    ]
+  ],
+  "_from": "rulerjs@latest",
+  "_inCache": true,
+  "_location": "/rulerjs",
+  "_nodeVersion": "7.4.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/rulerjs-0.0.1.tgz_1484360454231_0.5672866504173726"
+  },
+  "_npmUser": {
+    "name": "nouf",
+    "email": "hajji-tarik@outlook.fr"
+  },
+  "_npmVersion": "4.0.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "rulerjs",
+    "scope": null,
+    "escapedName": "rulerjs",
+    "name": "rulerjs",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/rulerjs/-/rulerjs-0.0.1.tgz",
+  "_shasum": "44e7abcafd2baa9940fd28891cc2443a302e3595",
+  "_shrinkwrap": null,
+  "_spec": "rulerjs",
+  "_where": "/Users/hajjiTarek/Desktop",
+  "author": "hajji tarik",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "description": "The RulerJS library exported as [Node.js](https://nodejs.org/) modules.",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-browserify": "^0.5.1",
+    "gulp-connect": "^5.0.0",
+    "lodash": "^4.17.4"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "44e7abcafd2baa9940fd28891cc2443a302e3595",
+    "tarball": "https://registry.npmjs.org/rulerjs/-/rulerjs-0.0.1.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    "nouf <hajji-tarik@outlook.fr>"
+  ],
+  "name": "rulerjs",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
