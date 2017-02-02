@@ -2,6 +2,9 @@
 
 The RulerJS library exported as [Node.js](https://nodejs.org/) modules.
 
+![build status](https://img.shields.io/travis/hajjiTarik/objArr/master.svg?style=flat-square)
+
+
 ## Installation
 
 Using npm:
