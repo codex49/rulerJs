@@ -1,4 +1,4 @@
-# RulerJS 0.0.1
+# RulerJs
 
 The RulerJS library exported as [Node.js](https://nodejs.org/) modules.
 
