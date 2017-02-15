@@ -4,8 +4,6 @@
 
 ![build status](https://travis-ci.org/hajjiTarik/rulerJs.svg?branch=master)
 
-he RulerJS library exported as [Node.js](https://nodejs.org/) modules.
-
 ## Installation
 
 ```js
